@@ -1,16 +1,29 @@
-# flutter_project
+**📝 To-Do List App (Flutter)**
+This is a simple and clean To-Do List mobile application built with Flutter. The app allows users to add, search, and delete tasks efficiently, using a user-friendly interface with a custom color theme.
 
-A new Flutter project.
+**📱 Features**
+✅ Add tasks with a single tap
 
-## Getting Started
+🔍 Search tasks using the search bar
 
-This project is a starting point for a Flutter application.
+🗑️ Delete tasks from the list
 
-A few resources to get you started if this is your first Flutter project:
+🎨 Beautiful UI with custom color scheme (Deep Purple & Orange)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🧠 Real-time search filtering
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📦 Built using StatefulWidget and basic Flutter widgets
+**
+🧱 Technologies Used**
+Flutter
+
+Dart
+
+StatefulWidget, TextField, ListView.builder, AppBar, Scaffold, and more
+
+**🎨 UI Theme**
+Background Color: Colors.deepPurple[100]
+
+Highlight Color: Colors.deepOrangeAccent
+
+Task Cards: Clean white containers with rounded corners
